@@ -1,0 +1,4 @@
+com\testng\testcase\LoginTest.class
+com\testng\testcase\SearchTest.class
+com\testng\testcase\RegisterTest.class
+com\testng\base\Initialisebase.class

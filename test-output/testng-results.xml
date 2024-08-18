@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="12" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-17T18:33:09 IST" name="Tutorials" finished-at="2024-08-17T18:35:42 IST" duration-ms="153287">
+    <groups>
+    </groups>
+    <test started-at="2024-08-17T18:33:09 IST" name="Tutorials Test Case" finished-at="2024-08-17T18:35:42 IST" duration-ms="153287">
+      <class name="com.testng.testcase.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:09 IST" name="setup" finished-at="2024-08-17T18:33:22 IST" duration-ms="12857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validmandatoryfields()[pri:1, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:22 IST" name="validmandatoryfields" finished-at="2024-08-17T18:33:24 IST" duration-ms="2362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validmandatoryfields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:24 IST" name="teardown" finished-at="2024-08-17T18:33:25 IST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:25 IST" name="setup" finished-at="2024-08-17T18:33:35 IST" duration-ms="10144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validselectingallfields()[pri:2, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:35 IST" name="validselectingallfields" finished-at="2024-08-17T18:33:38 IST" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validselectingallfields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:38 IST" name="teardown" finished-at="2024-08-17T18:33:39 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:39 IST" name="setup" finished-at="2024-08-17T18:33:49 IST" duration-ms="10408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validexistingemailaddressfields()[pri:3, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:49 IST" name="validexistingemailaddressfields" finished-at="2024-08-17T18:33:51 IST" duration-ms="2434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validexistingemailaddressfields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:51 IST" name="teardown" finished-at="2024-08-17T18:33:52 IST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:33:52 IST" name="setup" finished-at="2024-08-17T18:34:02 IST" duration-ms="10265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validwithoutfillinganyfield()[pri:4, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:34:02 IST" name="validwithoutfillinganyfield" finished-at="2024-08-17T18:34:03 IST" duration-ms="936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validwithoutfillinganyfield -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Register@3f56875e]" started-at="2024-08-17T18:34:03 IST" name="teardown" finished-at="2024-08-17T18:34:04 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.Register -->
+      <class name="com.testng.testcase.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:07 IST" name="setup" finished-at="2024-08-17T18:34:20 IST" duration-ms="12428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogincredentials(java.lang.String,java.lang.String)[pri:1, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:20 IST" name="verifylogincredentials" data-provider="supplydata" finished-at="2024-08-17T18:34:21 IST" duration-ms="1319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogincredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:21 IST" name="teardown" finished-at="2024-08-17T18:34:21 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:21 IST" name="setup" finished-at="2024-08-17T18:34:31 IST" duration-ms="9238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogincredentials(java.lang.String,java.lang.String)[pri:1, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:31 IST" name="verifylogincredentials" data-provider="supplydata" finished-at="2024-08-17T18:34:32 IST" duration-ms="1134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogincredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:32 IST" name="teardown" finished-at="2024-08-17T18:34:33 IST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:33 IST" name="setup" finished-at="2024-08-17T18:34:41 IST" duration-ms="8108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogincredentials(java.lang.String,java.lang.String)[pri:1, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:41 IST" name="verifylogincredentials" data-provider="supplydata" finished-at="2024-08-17T18:34:42 IST" duration-ms="1283" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogincredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:42 IST" name="teardown" finished-at="2024-08-17T18:34:43 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:43 IST" name="setup" finished-at="2024-08-17T18:34:51 IST" duration-ms="8667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInvalidlogincredentials()[pri:2, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:51 IST" name="verifyInvalidlogincredentials" finished-at="2024-08-17T18:34:52 IST" duration-ms="1132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidlogincredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:52 IST" name="teardown" finished-at="2024-08-17T18:34:53 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:34:53 IST" name="setup" finished-at="2024-08-17T18:35:01 IST" duration-ms="8496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyinvalidemailandvalidpassword()[pri:3, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:01 IST" name="verifyinvalidemailandvalidpassword" finished-at="2024-08-17T18:35:03 IST" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidemailandvalidpassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:03 IST" name="teardown" finished-at="2024-08-17T18:35:03 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:03 IST" name="setup" finished-at="2024-08-17T18:35:11 IST" duration-ms="8017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyinvalidemailandinvalidpassword()[pri:4, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:11 IST" name="verifyinvalidemailandinvalidpassword" finished-at="2024-08-17T18:35:13 IST" duration-ms="1359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyinvalidemailandinvalidpassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:13 IST" name="teardown" finished-at="2024-08-17T18:35:13 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:13 IST" name="setup" finished-at="2024-08-17T18:35:22 IST" duration-ms="8740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyemptytxt()[pri:5, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:22 IST" name="verifyemptytxt" finished-at="2024-08-17T18:35:23 IST" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyemptytxt -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.testcase.Login@44a7bfbc]" started-at="2024-08-17T18:35:23 IST" name="teardown" finished-at="2024-08-17T18:35:23 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.testcase.Login -->
+      <class name="com.testng.testcase.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:23 IST" name="setup" finished-at="2024-08-17T18:35:31 IST" duration-ms="7945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithValidProduct()[pri:1, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:31 IST" name="verifySearchWithValidProduct" finished-at="2024-08-17T18:35:32 IST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithValidProduct -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:32 IST" name="tear" finished-at="2024-08-17T18:35:33 IST" duration-ms="564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:33 IST" name="setup" finished-at="2024-08-17T18:35:41 IST" duration-ms="7859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithInValidProduct()[pri:2, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:41 IST" name="verifySearchWithInValidProduct" finished-at="2024-08-17T18:35:42 IST" duration-ms="842" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [There is no product that matches the search criteria..] but found [There is no product that matches the search criteria.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [There is no product that matches the search criteria..] but found [There is no product that matches the search criteria.]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.testng.testcase.Search.verifySearchWithInValidProduct(Search.java:48)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithInValidProduct -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:42 IST" name="tear" finished-at="2024-08-17T18:35:42 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+        <test-method signature="verifySearchWithoutAnyProduct()[pri:3, instance:com.testng.testcase.Search@37858383]" started-at="2024-08-17T18:35:42 IST" name="verifySearchWithoutAnyProduct" finished-at="2024-08-17T18:35:42 IST" depends-on-methods="com.testng.testcase.Search.verifySearchWithValidProduct, com.testng.testcase.Search.verifySearchWithInValidProduct" duration-ms="0" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method com.testng.testcase.Search.verifySearchWithoutAnyProduct() on instance com.testng.testcase.Search@37858383 depends on not successfully finished methods 
+[com.testng.testcase.Search.verifySearchWithValidProduct() on instance com.testng.testcase.Search@37858383
+com.testng.testcase.Search.verifySearchWithInValidProduct() on instance com.testng.testcase.Search@37858383]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method com.testng.testcase.Search.verifySearchWithoutAnyProduct() on instance com.testng.testcase.Search@37858383 depends on not successfully finished methods 
+[com.testng.testcase.Search.verifySearchWithValidProduct() on instance com.testng.testcase.Search@37858383
+com.testng.testcase.Search.verifySearchWithInValidProduct() on instance com.testng.testcase.Search@37858383]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithoutAnyProduct -->
+      </class> <!-- com.testng.testcase.Search -->
+    </test> <!-- Tutorials Test Case -->
+  </suite> <!-- Tutorials -->
+</testng-results>

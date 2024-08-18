@@ -1,0 +1,3 @@
+# Created at 2024-08-17T20:29:41.785
+Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, java.lang.Throwable)" because "this.extentTest" is null
+
