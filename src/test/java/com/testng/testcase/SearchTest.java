@@ -14,7 +14,7 @@ import PageObjects.SearchPage;
 
 public class SearchTest extends Initialisebase {
 	
-	
+	//commented
 
 	SearchPage sp;
 	HomePage hp;
@@ -47,7 +47,7 @@ public class SearchTest extends Initialisebase {
 	@Test(priority=2)
 	public void verifySearchWithInValidProduct() {
 		sp=hp.searchforProduct("Honda");
-		Assert.assertEquals(sp.invalidproductfound(), "There is no product that matches the search criteria..");
+		Assert.assertEquals(sp.invalidproductfound(), "There is no product that matches the search criteria.");
 	}
 	
 	@Test(priority=3,dependsOnMethods= {"verifySearchWithInValidProduct","verifySearchWithValidProduct"})
