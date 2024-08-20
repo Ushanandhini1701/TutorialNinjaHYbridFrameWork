@@ -1,0 +1,51 @@
+10:46:33.431 [main] INFO  com.testng.testcase.SearchTest - *****Searching With Valid Product *****
+10:46:47.843 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:46:47.847 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:46:47.850 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:46:51.785 [main] INFO  com.testng.testcase.LoginTest - ***** Providing Invalid login Details Valid Email And Invalid Password
+10:47:41.678 [main] INFO  com.testng.testcase.RegisterTest - ***** Starting AccountSuccessPage  Test Case****
+10:47:41.684 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With Mandatory Fields *****
+10:47:44.800 [main] ERROR com.testng.testcase.RegisterTest - Test Failed
+10:48:03.161 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With All Fields *****
+10:48:17.683 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With Existing Fields *****
+10:48:32.773 [main] INFO  com.testng.testcase.RegisterTest - *****Registering Without Filling All Mandatory Fields *****
+10:48:40.330 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:48:40.333 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:48:40.337 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:48:43.236 [main] INFO  com.testng.testcase.LoginTest - ***** Providing valid login Details
+10:48:54.139 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:48:54.139 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:48:54.140 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:48:54.848 [main] INFO  com.testng.testcase.LoginTest - ***** Providing valid login Details
+10:49:06.223 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:49:06.224 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:49:06.224 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:49:06.909 [main] INFO  com.testng.testcase.LoginTest - ***** Providing valid login Details
+10:49:17.141 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:49:17.142 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:49:17.142 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:49:17.711 [main] INFO  com.testng.testcase.LoginTest - ***** Providing Invalid login Details Valid Email And Invalid Password
+10:49:36.276 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:49:36.277 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:49:36.277 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:49:36.832 [main] INFO  com.testng.testcase.LoginTest - ***** Providing invalid login Details invalid email and valid password
+10:50:01.356 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:50:01.357 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:50:01.358 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:50:01.985 [main] INFO  com.testng.testcase.LoginTest - ***** Providing valid login Details with invalidemail and invalidpassword
+10:50:15.435 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+10:50:15.436 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+10:50:15.436 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+10:50:16.103 [main] INFO  com.testng.testcase.LoginTest - *****Clicking Login Button without enterinh any Fields *****
+10:50:26.420 [main] INFO  com.testng.testcase.SearchTest - *****Searching With Valid Product *****
+10:50:37.116 [main] INFO  com.testng.testcase.SearchTest - *****Searching With InValid Product *****
+10:59:42.677 [main] INFO  com.testng.testcase.RegisterTest - ***** Starting AccountSuccessPage  Test Case****
+10:59:42.682 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With Mandatory Fields *****
+10:59:44.850 [main] ERROR com.testng.testcase.RegisterTest - Test Failed
+11:00:09.987 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With All Fields *****
+11:00:24.554 [main] INFO  com.testng.testcase.RegisterTest - *****Registering With Existing Fields *****
+11:00:39.728 [main] INFO  com.testng.testcase.RegisterTest - *****Registering Without Filling All Mandatory Fields *****
+11:00:53.981 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Home Test Case
+11:00:53.982 [main] INFO  com.testng.testcase.LoginTest - ***** Starting  Account Test Case
+11:00:54.090 [main] INFO  com.testng.testcase.LoginTest - ***** Navigating to Login Page
+11:00:54.760 [main] INFO  com.testng.testcase.LoginTest - ***** Providing valid login Details
